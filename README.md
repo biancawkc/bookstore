@@ -9,5 +9,5 @@ Step 2 - Use `rails db:migrate` to run the migration <br><br>
 Step 3 - To release the initial data, run `rails db:seed` <br><br>
 Step 4 - Run `rails s` to start the server <br><br>
 Step 5- Go to the folder bookable with `cd bookable`, It is where our React App is <br><br>
-Step 6 - Run `npm i axios`
+Step 6 - Run `npm i axios`<br><br>
 Step 7 - Run `npm run start` to start our React App 
